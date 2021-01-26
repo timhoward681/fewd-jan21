@@ -15,3 +15,7 @@ p2 {
     border: solid red 10px;
 
 }
+
+.multiline {
+   white-space: pre-wrap; 
+}
