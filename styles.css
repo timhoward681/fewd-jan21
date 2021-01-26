@@ -1,4 +1,17 @@
+
+body {
+    background-color: green;
+}
+
+
 h1 {
     color:blue
 }
 
+p2 {
+    margin: 10px 15px 30px 45px;
+    color: rgb(0, 255, 242);
+    background-origin: 10px;
+    border: solid red 10px;
+
+}
