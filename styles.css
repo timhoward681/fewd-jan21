@@ -3,6 +3,11 @@ body {
     background-color: green;
 }
 
+div {
+    background-image: url("images/praisethesun.jpg");
+    width: 300px;
+    height: 150px;
+}
 
 h1 {
     color:blue;
@@ -27,8 +32,8 @@ p {
 }
 
 img{
-    width: 350px;
-    height: 150px;
+    width: 500px;
+    height: 300px;
 
 }
 
