@@ -5,7 +5,11 @@ body {
 
 div {
     background-image: url("images/praisethesun.jpg");
-    width: 300px;
+    background-size: 500px 150px;
+}
+
+header {
+    width: 500px;
     height: 150px;
 }
 
@@ -44,9 +48,6 @@ p {
     color: yellow;
     border: black;
 }
-img {
-    width: 500px;
-    height: 175px;
-}
+
 }
 
