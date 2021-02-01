@@ -5,7 +5,9 @@ body {
 
 
 h1 {
-    color:blue
+    color:blue;
+    padding-top: 20px;
+    
 }
 
 p {
@@ -34,10 +36,12 @@ img{
 @media screen and (min-width: 700 px) {
 
 p {
-    color: yellow
-    border: black
-
+    color: yellow;
+    border: black;
 }
-
+img {
+    width: 500px;
+    height: 175px;
+}
 }
 
