@@ -31,10 +31,6 @@ p {
    white-space: pre-wrap; 
 }
 
-p {
-    display: block;
-}
-
 img{
     width: 500px;
     height: 300px;
@@ -47,7 +43,11 @@ img{
 p {
     color: yellow;
     border: black;
+    display: block;
 }
 
+href {
+    color: yellow;
+}
 }
 
