@@ -1,12 +1,15 @@
 
+
+div {
+    background-image: url(images/praisethesun.jpg);
+    background-size: 300px 150px;
+}
+
 body {
     background-color: rgb(248, 99, 0);
 }
 
-div {
-    background-image: url("images/praisethesun.jpg");
-    background-size:50%;
-}
+
 
 header {
     width:auto;
